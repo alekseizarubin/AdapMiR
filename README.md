@@ -8,7 +8,7 @@
 
 
 
-Reference_create.R -h
+#### Reference_create.R -h
 
 Options:
 
@@ -27,7 +27,7 @@ Options:
         -h, --help
                 Show this help message and exit
 
-Rscript AdapMiR.R -h
+#### Rscript AdapMiR.R -h
 
 Options:
 
